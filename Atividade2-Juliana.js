@@ -36,6 +36,6 @@ console.log("O valor do desconto é R$"+valDesc,"e o valor total da compra é R$
 
 //ex06
 var t = 3.5
-var s = 95
-console.log("a distância percorrida é:", s / t)
+var vm= 95
+console.log("a distância (s) percorrida é:", vm * t)
 
