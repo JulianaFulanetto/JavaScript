@@ -117,4 +117,4 @@ class InversorDeOrdemPalavras { // Esta classe encapsula a funcionalidade de inv
   }
 }
 const inversor = new InversorDeOrdemPalavras("todos somos seres mortais");
-console.log(inversor.inverterOrdem()); // Saída: "alto late cachorro O"
+console.log(inversor.inverterOrdem()); 
